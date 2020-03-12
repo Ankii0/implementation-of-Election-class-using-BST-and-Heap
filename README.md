@@ -1,0 +1,2 @@
+# implementation-of-Election-class-using-BST-and-Heap
+In this assignment you will have to work with binary search tree, binary heap. There are three principal components of this assignments: BST, Heap, and Election. Election is a sample of a real-life problem where you have to handle certain queries related to election, say Vidhan Sabha Election occuring at multiple states of India at the same time. You will be using binary search tree and binary max heap to handle those queries.
